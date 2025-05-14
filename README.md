@@ -1,9 +1,7 @@
 
-# Tutorial de Microservicios Hoteles-Ciudades con JAVA
+# Tutorial de Microservicios "Hoteles-Ciudades" con JAVA
 
-Link para ver resultado: [BUSCADOR PELICULAS FINALIZADO](https://buscador-peliculas-javascript.netlify.app/)
-
-Este es un tutorial que te guiará a través del proceso de creación de una aplicación de servicios utilizando Java. La aplicación utiliza APIs para buscar realizar procesos CRUD (CREACION, LECTURA,MODIFICACION,ELIMINACION) .
+Este es un tutorial que te guiará a través del proceso de creación de una aplicación de servicios utilizando Java. La aplicación utiliza APIs para buscar realizar procesos CRUD (CREACION, LECTURA,MODIFICACION,ELIMINACION), Login (registro) de usuarios y asignación de roles y permisos para poder acceder a las distintas funcionalidades del sistema.
 A continuación, se proporciona una explicación paso a paso del código Java necesario para que funcione la aplicación.
 
 ## Paso 1: Configuración de la API
